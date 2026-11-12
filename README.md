@@ -1,6 +1,6 @@
 # Practica Vuforia
 
-![](vuforiaPractica.gif)
+![](vuforiaPracticaVid.gif)
 
 ## setup
 
@@ -75,7 +75,7 @@ The script is attached to both objects.
 
 # Práctica Vuforia
 
-![](vuforiaPractica.gif)
+![](vuforiaPracticaVid.gif)
 
 ## Configuración
 
